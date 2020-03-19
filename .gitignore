@@ -1,0 +1,8 @@
+.idea
+node_modules
+D3.iml
+
+LDAvis.js
+package-lock.json
+style.css
+style.css.save
